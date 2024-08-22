@@ -1,9 +1,22 @@
 body{
-    color:rgb(19, 30, 179);
-    background-color: rgb(184, 245, 245);
+    color: rgb(19, 30, 179);
+    /*background-image: linear-gradient(rgb(122, 228, 241),rgb(44, 152, 160));*/
+    background-image: url("https://wallpaperaccess.com/full/3407479.jpg"); /*https://www.pngarts.com/files/1/Netflix-Logo-PNG-Transparent-Image.png*/
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
 }
 
 p{
-    color:rgb(19, 30, 179);
-    background-color: rgb(66, 226, 226);
+    color: rgb(19, 30, 179);
+    background-color: rgb(141, 211, 216);
+    font-size: 50px; /*o px é para colocar o temanho da fonte*/
+    text-align: center;
+}
+.Titulo{ /*class*/
+    font-size:  /*https://www.imagensempng.com.br/wp-content/uploads/2023/06/Logo-Pix-Png-1024x1024.png*/
+}
+
+.seletor{ /*id*/
+
 }
